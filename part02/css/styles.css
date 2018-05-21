@@ -1,0 +1,32 @@
+.container {
+    max-width: 286px;
+    height: auto;
+    margin: 0 auto;
+}
+.slide {
+	width: 286px;
+	height: 400px;
+    position: inherit;
+    margin: 0 10px 10px 10px;
+}
+.slide img {
+	position: absolute;
+	top: 0;
+    margin: 0 auto;
+}
+.sldrbtns {
+    width: 150px;
+    margin: 0 75px;
+}
+.buttons {
+	background-color: white;
+	border-color: transparent;
+	font-size: 18px;
+	padding: 2px;
+	font-family: serif;
+	color: cornflowerblue;
+}
+.buttons:hover{
+	border-bottom-color: black;
+	color: black;
+}

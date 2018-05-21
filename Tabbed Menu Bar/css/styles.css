@@ -1,0 +1,39 @@
+
+ul li{
+	display: inline;
+	padding: 10px;
+	margin-right: 1px;
+	background-color: #DCDCDC;
+	border-radius: 5px 5px 0 0;
+	
+}
+ul{
+	padding-top: 18px;
+	margin-left: -30px;
+}
+ul li a{
+	padding: 40px;
+	text-decoration: none;
+	font-family: sans-serif
+}
+#background{
+	background-color: #C0C0C0;
+	width: 940px;
+	height: 45px;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+.container{
+	width: 960px;
+	margin: auto;
+	border: solid;
+	text-align: left;
+}
+.container p,h4 {
+	font-size: 18px;
+	width: 900px;
+	padding-left: 40px;
+}
+.menus:hover{
+	background-color: white;
+}
